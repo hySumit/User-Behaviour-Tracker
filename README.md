@@ -28,6 +28,8 @@ This project demonstrates a product recommendation feature by utilizing data col
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your local machine.
+- Make Sure both of the Projects should run on the LocalHost
+- Install cors extension on your Browser if you are having trouble to get data from the API
 
 ### Installation
 
